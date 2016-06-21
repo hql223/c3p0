@@ -9,6 +9,10 @@
             "email" : "hql223.bright@qq.com"
     }],
     "require": {
+        "doctrine/orm": "2.5.4",
+        "doctrine/annotations" : "1.2.7",
+        "endeveit/cache": "1.1.12",
+        "nette/mail": "*",
         "php": ">=5.4.0"
     },
     "autoload": {
