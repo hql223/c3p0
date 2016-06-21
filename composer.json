@@ -1,0 +1,19 @@
+{
+    "name": "hql223/c3p0",
+    "description": "A small composer management PHP MVC Framework",
+    "license": "MIT",
+    "keywords": ["c3p0"],
+    "version": "1.0.0",
+    "authors": [{
+            "name" : "hql223",
+            "email" : "hql223.bright@qq.com"
+    }],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "c3p0\\" : "src/"
+        }
+    }
+}
