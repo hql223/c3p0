@@ -1,5 +1,5 @@
 <?php
-namespace c3p0\services;
+namespace c3p0\mvc;
 
 /**
  * \View

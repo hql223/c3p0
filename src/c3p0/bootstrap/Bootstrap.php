@@ -1,5 +1,5 @@
 <?php
-namespace c3p0;
+namespace c3p0\bootstrap;
 
 use Doctrine\ORM\Tools\Setup;
 use Doctrine\ORM\EntityManager;
